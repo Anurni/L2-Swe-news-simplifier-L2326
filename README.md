@@ -2,6 +2,7 @@
 
 # Preliminary plan:
 -Manually collect around 50 regular news article - simplified news article pairs that discuss the same topic into a json file.
+
 -Fine-tune T5 model from HuggingFace or Swedish GPT
 
 # Already risen problems / challenges:
