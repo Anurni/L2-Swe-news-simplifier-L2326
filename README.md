@@ -5,7 +5,7 @@
 - Collect 50 news article - pairs in json
 - preprocess and tokenize the data
 - split data
--Fine-tune T5 model from HuggingFace or Swedish GPT? Possible to compare the performance
+- Fine-tune T5 model from HuggingFace or Swedish GPT? Possible to compare the performance
 - evaluate the performance (qualitative metrics)
 
 # Already risen problems / challenges:
