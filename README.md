@@ -2,8 +2,11 @@
 
 # Preliminary plan:
 
-
--Fine-tune T5 model from HuggingFace or Swedish GPT
+- Collect 50 news article - pairs in json
+- preprocess and tokenize the data
+- split data
+-Fine-tune T5 model from HuggingFace or Swedish GPT? Possible to compare the performance
+- evaluate the performance (qualitative metrics)
 
 # Already risen problems / challenges:
 -SweDN dataset summaries are otherwise good, but they are not necessarily simplified language. They mainly seem to offer a consise version of the article, using still words that are most likely challenging for L2-Swedish learners.
