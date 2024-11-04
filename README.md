@@ -12,7 +12,13 @@ Both the models as well as extracted data (as well as all the files that are hav
 ## Notebook 1: `task-fine-tuning.ipynb`
 
 This notebook holds the code for fine-tuning the base model (mT5-small) for the task.
-The resulting fine-tuned model is available at:
+The resulting fine-tuned model is named:
+
+```bash
+final-task-fine-tuned-model-40k-traindata
+```
+
+and it is available at:
 
 ```bash
 /home/gusniemian@GU.GU.SE/L2-Swe-news-simplifier-L2326/final-task-fine-tuned-model-40k-traindata 
@@ -22,7 +28,13 @@ The resulting fine-tuned model is available at:
 
 This notebook holds the code for the second fine-tuning of the model. Meaning that this code fine-tunes the model that 
 is saved in task-fine-tuning.ipynb.
-The resulting fine-tuned model is available at: 
+The resulting fine-tuned model is named:
+
+```bash
+final-language-fine-tuned-model
+```
+
+and it is available at: 
 
 ```bash
 /home/gusniemian@GU.GU.SE/L2-Swe-news-simplifier-L2326/final-language-fine-tuned-model
