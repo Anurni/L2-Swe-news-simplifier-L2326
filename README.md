@@ -32,9 +32,9 @@ The resulting fine-tuned model is available at:
 
 Holds the 50 Swedish news article pairs used for the fine-tuning in notebook 2.
 
-## Project report
+## Project report : `Advanced Machine Learning final project report.pdf`
 
-My project report discussing project background, methodolody, data, results and limitations.
+My project report discussing project background, methodolody, data, results, and limitations.
 
 
 
