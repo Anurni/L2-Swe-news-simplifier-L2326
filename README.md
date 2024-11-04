@@ -3,7 +3,7 @@
 This repository holds my code (two Jupyter notebooks), data, and report for the final course project of LT2326.
 
 Note that due to memory issues, the fine-tuned models are not available in this repository. Also note that the data (D-wikipedia dataset) used for the fine-tuning in Notebook 1 is compressed in this repository.
-Both the models as well as extracted data can be found on the mltgpu at: 
+Both the models as well as extracted data (as well as all the files that are have been uploaded in this repository) can be found on the mltgpu at: 
 
 ```bash
 /home/gusniemian@GU.GU.SE/L2-Swe-news-simplifier-L2326
